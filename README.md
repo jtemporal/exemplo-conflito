@@ -3,3 +3,5 @@
 Suponha que esse arquivo está sendo trabalhado e duas pessoas estão fazendo alterações nele.
 
 Essas pessoas vão adicionar mais informações abaixo.
+
+Pessoa 2 esteve aqui!
